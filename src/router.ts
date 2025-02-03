@@ -1,7 +1,7 @@
 import MainComponent from "./components/main";
 export default const router = createBrowserRouter([
     {
-        path: "/",
-        element: MainComponent
+        path: "/main_window",
+        element: <MainComponent />
     }
 ])
