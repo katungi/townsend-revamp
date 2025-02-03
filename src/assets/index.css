@@ -1,4 +1,4 @@
-:root{
+:root {
   --main-bg: #1e1e1e;
   --sidebar-text-color: #cccccc;
   --sidebar-icon-color: #868686;
@@ -16,7 +16,7 @@
   scale: 1 !important;
 }
 
-.ps__rail-y , .ps__rail-y:hover {
+.ps__rail-y, .ps__rail-y:hover {
   background-color: transparent !important;
   scale: 1 !important;
 }
